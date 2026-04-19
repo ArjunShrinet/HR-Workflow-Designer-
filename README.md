@@ -88,7 +88,7 @@ tredence-assignment/
 ## 🎬 Demo Video
 
 <video width="100%" controls style="border-radius: 8px; margin: 20px 0;">
-  <source src="./public/demo of assignment 2 .mp4" type="video/mp4">
+  <source src="/demo%20of%20assignment%202%20.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
