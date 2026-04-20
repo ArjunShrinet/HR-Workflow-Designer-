@@ -86,12 +86,7 @@ tredence-assignment/
 ---
 
 ## 🎬 Demo Video
-
-<video width="100%" controls style="border-radius: 8px; margin: 20px 0;">
-  <source src="./public/demo%20of%20assignment%202%20.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+https://github.com/user-attachments/assets/7b0c3dfc-e6e2-4da9-abb4-a7b4ff96792a
 **Watch the demo to see:**
 - 🖱️ Drag and drop nodes onto the canvas
 - ✏️ Click nodes to edit their properties in the side panel
@@ -170,6 +165,13 @@ The simulate function uses Breadth-First Search starting from the Start node, fo
 - Auto-layout using dagre to auto-arrange nodes
 - Node templates to save common workflow patterns
 - E2E tests with Cypress/Playwright
+- Login System so that user could save their work in a workspace
+
+
+
+
+
+
 
 ---
 
