@@ -87,7 +87,7 @@ tredence-assignment/
 
 ## 🎬 Demo Video
 
-https://github.com/user-attachments/assets/7b0c3dfc-e6e2-4da9-abb4-a7b4ff96792a
+[![Demo Video Thumbnail](./public/Screenshot%202026-04-21%20003738.png)](https://github.com/user-attachments/assets/7b0c3dfc-e6e2-4da9-abb4-a7b4ff96792a)
 
 **Watch the demo to see:**
 - 🖱️ Drag and drop nodes onto the canvas
