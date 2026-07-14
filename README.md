@@ -1,4 +1,4 @@
-# HR Workflow Designer — Tredence Assignment
+# HR Workflow Designer 
 
 A visual drag-and-drop HR Workflow Designer built with **Next.js**, **TypeScript**, **React Flow**, and **Zustand**.
 
